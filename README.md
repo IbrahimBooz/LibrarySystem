@@ -32,7 +32,7 @@
 
 # When creating this application, the relationships with the uma diagram were determined
 
-<img style="margin-left:150px" alt="veterinaryUML.png" height="600" src="libraryUML.png" width="800"/>
+<img style="margin-left:150px" alt="LibraryUML.png" height="600" src="libraryUML.png" width="800"/>
 
 
 <h2>Endpoint</h2>
